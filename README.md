@@ -1,0 +1,2 @@
+# HACKSMU25
+Project for HACK SMU 2025
